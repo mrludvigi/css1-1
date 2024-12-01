@@ -6,17 +6,26 @@ p{
 }
 .satauri{
     color: #8E26C0;
-    padding-left: 300px;
+    padding-left:800px;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 84.48px;
 }
 .container1{
+    width: 565px;
+    height: 86px;
     background-color: #FFE8E8;
     display: inline-block;
     color: #FF0000;
-    padding-left: 20px;
-    padding-right: 40px;
-    margin-bottom: 20px;
+    line-height: 38.4px;
+    font-weight: 400;
+    font-size: 32px;
+    margin-bottom: 30px;
+
 }
 .container2{
+    width: 1023px;
+    height: 144px;
     color: #85647B;
     border: 2px solid;
     border-top:ridge #00c76d;
@@ -24,39 +33,58 @@ p{
     border-bottom:ridge #8057d9;
     border-right:ridge #0055ff;
     display: inline-block;
-    padding-left: 20px;
-    padding-right: 40px;
-    margin-bottom: 20px;
-}
-.sec2{
-    width: 350px;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    margin-bottom: 30px;
+
 }
 .container3{
+    width: 1023px;
+    height: 133px;
     color: #414651;
     background-color: #FFE8E8;
     display: inline-block;
-    padding-left: 20px;
-    padding-right: 40px;
-    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38.4px;
+    margin-bottom: 30px;
 }
 .sec3{
-    width: 440px;
+    padding-left: 20px;
+    width: 943px;
+    height: 85px;
 }
+
 .procent{
     color: #FF4405;
+    font-size: 40px;
+    line-height: 48px;
+    text-decoration: underline;
+    
 }
 
 .container4{
+    width: 1069px;
+    height: 86px;
     color: #0064CE;
     display: inline-block;
     border: solid #3538CD;
+    margin-bottom: 20px;
 }
 .section4{
-        padding-left: 45px;
-        padding-right: 20px;
+        padding-left: 200px;
         display: inline-block;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 38.4px;
+        text-align: right;
+        
 }
 .discount{
-    width: 280px;
+    width: 556px;
+    height: 347px;
     padding-top: 40px;
 }
