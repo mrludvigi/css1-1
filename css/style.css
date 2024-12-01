@@ -19,7 +19,10 @@ p{
 .container2{
     color: #85647B;
     border: 2px solid;
-    border-image: linear-gradient(to left, #bf1573, #00c76d, #0055ff, #8057d9) 1;
+    border-top:ridge #00c76d;
+    border-left:ridge #bf1573;
+    border-bottom:ridge #8057d9;
+    border-right:ridge #0055ff;
     display: inline-block;
     padding-left: 20px;
     padding-right: 40px;
