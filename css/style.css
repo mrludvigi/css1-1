@@ -1,87 +1,69 @@
 body{
-    margin-left: 20px;
-}
-p{
-    text-align: center;
+    margin-left: 32px;
 }
 .satauri{
     color: #8E26C0;
-    padding-left:800px;
+    text-align: center;
     font-weight: 800;
     font-size: 64px;
     line-height: 84.48px;
 }
 .container1{
-    width: 565px;
-    height: 86px;
+    max-width: 565px;
+    max-height: 86px;
+    text-align: center;
+    padding: 24px 40px;
     background-color: #FFE8E8;
     display: inline-block;
     color: #FF0000;
-    line-height: 38.4px;
     font-weight: 400;
     font-size: 32px;
-    margin-bottom: 30px;
-
+    margin-bottom: 20px;
 }
 .container2{
-    width: 1023px;
-    height: 144px;
+    max-width: 1023px;
     color: #85647B;
-    border: 2px solid;
-    border-top:ridge #00c76d;
-    border-left:ridge #bf1573;
-    border-bottom:ridge #8057d9;
-    border-right:ridge #0055ff;
+    border-top:4px solid #00c76d;
+    border-left:4px solid #bf1573;
+    border-bottom:4px solid #8057d9;
+    border-right:6px solid #0055ff;
     display: inline-block;
     font-weight: 400;
     font-size: 40px;
-    line-height: 48px;
     text-align: center;
     margin-bottom: 30px;
-
+    padding: 24px 40px;
 }
 .container3{
-    width: 1023px;
-    height: 133px;
+    max-width: 1023px;
     color: #414651;
     background-color: #FFE8E8;
     display: inline-block;
     text-align: center;
     font-weight: 400;
     font-size: 32px;
-    line-height: 38.4px;
+    padding: 24px 40px;
     margin-bottom: 30px;
-}
-.sec3{
-    padding-left: 20px;
-    width: 943px;
-    height: 85px;
 }
 
 .procent{
     color: #FF4405;
     font-size: 40px;
-    line-height: 48px;
+    font-weight: 400;
     text-decoration: underline;
     
 }
 
 .container4{
-    width: 1069px;
-    height: 86px;
+    max-width: 1069px;
     color: #0064CE;
     display: inline-block;
-    border: solid #3538CD;
+    border: 2px solid #3538CD;
     margin-bottom: 20px;
-}
-.section4{
-        padding-left: 200px;
-        display: inline-block;
-        font-weight: 400;
-        font-size: 32px;
-        line-height: 38.4px;
-        text-align: right;
-        
+    padding: 24px 40px;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: right;
 }
 .discount{
     width: 556px;
